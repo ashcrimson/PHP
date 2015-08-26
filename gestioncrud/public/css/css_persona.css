@@ -1,0 +1,285 @@
+@charset "utf-8";
+/* CSS Document */
+#h1_title {
+	float: left;
+	height: 40px;
+	width: 1110px;
+	margin-left: 10px;
+}
+#formulario {
+	float: left;
+	height: 163px;
+	width: 300px;
+	margin-left: 10px;
+	background-color: #D2D2FF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #000;
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 40px;
+}
+#form1 {
+	float: left;
+	height: 170px;
+	width: 300px;
+}
+
+#formulario_lado1 {
+	float: left;
+	height: 110px;
+	width: 95px;
+	line-height: 20px;
+}
+#formulario_lado2 {
+	float: left;
+	height: 110px;
+	width: 185px;
+}
+#formulario_lado3 {
+	clear: left;
+	height: 30px;
+	width: 200px;
+	margin-left: 85px;
+}
+
+#buscadores {
+	float: left;
+	height: 200px;
+	width: 280px;
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+#buscador1 {
+	float: left;
+	height: 65px;
+	width: 255px;
+	background-color: #D2D2FF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #000;
+	margin-bottom: 10px;
+}
+#form2
+{
+	float: left;
+	height: 65px;
+	width: 225px;
+}
+#buscador1_lado1 {
+	float: left;
+	height: 25px;
+	width: 50px;
+}
+#buscador1_lado2 {
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#buscador1_lado3 {
+	clear: left;
+	height: 25px;
+	width: 225px;
+}
+#buscador2 {
+	float: left;
+	height: 65px;
+	width: 255px;
+	background-color: #D2D2FF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #000;
+}
+#form3
+{
+	float: left;
+	height: 65px;
+	width: 225px;
+}
+#buscador2_lado1 {
+	float: left;
+	height: 25px;
+	width: 50px;
+}
+#buscador2_lado2 {
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#buscador2_lado3 {
+	clear: left;
+	height: 25px;
+	width: 225px;
+}
+#h3_title_lista {
+	clear: left;
+	height: 25px;
+	width: 1000px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#resultado {
+	clear: left;
+	width: 1200px;
+}
+#form4 {
+	float: left;
+	height: 250px;
+	width: 1280px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+#containercontent
+{
+	float: left;
+	height: 250px;
+	width: 1280px;
+	border: 1px solid #000;
+	margin-bottom: 25px;
+}
+#estilo_cabezera_persona {
+	background-color: #03C;
+	float: left;
+	height: 25px;
+	width: 1280px;
+	color: #FFF;
+}
+#div_cabezera_rut {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 125px;
+	font-weight: bold;
+	margin-left: 5px;
+}
+#div_cabezera_nom {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 300px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+#div_cabezera_aps {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 300px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+#div_cabezera_sexo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 150px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+#div_cabezera_email {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 280px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+#div_cabezera_acciones {
+	float: left;
+	height: 25px;
+	width: 80px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
+#estilo_scrollbar {
+	overflow-x: hidden;
+	overflow-y: scroll;
+	float: left;
+	height: 225px;
+	width: 1280px;
+}
+#estilo_datos_busqueda {
+	float: left;
+	height: 25px;
+	width: 1280px;
+}
+#div_datos_rut {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 125px;
+	margin-left: 5px;
+}
+#div_datos_nom {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 300px;
+	margin-left: 10px;
+}
+
+#div_datos_aps {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 300px;
+	margin-left: 10px;
+}
+#div_datos_sexo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 150px;
+	margin-left: 10px;
+}
+
+#div_datos_email {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	float: left;
+	height: 25px;
+	width: 280px;
+	margin-left: 10px;
+}
+#div_datos_acciones {
+	float: left;
+	height: 25px;
+	width: 80px;
+	font-size: 14px;
+	text-align: center;
+}
+#estilo_resultado_busqueda {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	float: left;
+	height: 25px;
+	width: 1280px;
+	text-align: center;
+}
+#div_pie_pagina {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000;
+	text-align: center;
+	height: 25px;
+	width: 1280px;
+	clear: left;
+	margin-left: 10px;
+}
