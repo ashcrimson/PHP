@@ -1,0 +1,9 @@
+[15-Jul-2015 10:38:45 America/Santiago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/liam/public_html/calendario/config.php on line 7
+[15-Jul-2015 10:38:45 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/liam/public_html/calendario/config.php on line 8
+[15-Jul-2015 10:38:45 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/liam/public_html/calendario/index.php on line 7
+[15-Jul-2015 10:38:45 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
+[15-Jul-2015 10:41:53 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
+[15-Jul-2015 10:43:04 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
+[15-Jul-2015 10:43:22 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
+[15-Jul-2015 10:43:27 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
+[15-Jul-2015 10:46:19 America/Santiago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home1/liam/public_html/calendario/index.php on line 8
