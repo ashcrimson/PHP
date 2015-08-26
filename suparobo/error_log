@@ -1,0 +1,31 @@
+[11-Jul-2015 12:00:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 43
+[11-Jul-2015 12:03:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 44
+[11-Jul-2015 12:03:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 44
+[11-Jul-2015 12:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 44
+[11-Jul-2015 12:05:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 44
+[11-Jul-2015 12:07:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/liam/public_html/suparobo/suparobo1.php on line 44
+[11-Jul-2015 12:53:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/liam/public_html/suparobo/index.php on line 27
+[11-Jul-2015 12:53:28 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 40
+[11-Jul-2015 12:53:56 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 40
+[11-Jul-2015 12:59:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/liam/public_html/suparobo/index.php on line 54
+[11-Jul-2015 13:07:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 28
+[11-Jul-2015 13:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 28
+[11-Jul-2015 13:10:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 30
+[11-Jul-2015 13:15:18 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 30
+[11-Jul-2015 13:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 28
+[11-Jul-2015 13:51:32 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/liam/public_html/suparobo/index.php on line 28
+[11-Jul-2015 13:52:29 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home1/liam/public_html/suparobo/index.php on line 28
+[11-Jul-2015 19:24:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$mensaje' (T_VARIABLE) in /home1/liam/public_html/suparobo/index.php on line 25
+[11-Jul-2015 19:24:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$mensaje' (T_VARIABLE) in /home1/liam/public_html/suparobo/index.php on line 25
+[12-Jul-2015 10:19:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'success' (T_STRING), expecting ',' or ';' in /home1/liam/public_html/suparobo/index.php on line 64
+[12-Jul-2015 13:09:43 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 84
+[12-Jul-2015 16:13:42 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/liam/public_html/suparobo/upload.php on line 8
+[12-Jul-2015 16:16:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/liam/public_html/suparobo/upload.php on line 32
+[12-Jul-2015 17:05:49 America/Chicago] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/liam/public_html/suparobo/upload.php on line 8
+[18-Jul-2015 10:33:02 America/Chicago] PHP Warning:  mysql_connect(): Unknown MySQL server host 'localhot' (0) in /home1/liam/public_html/suparobo/index.php on line 71
+[18-Jul-2015 11:24:22 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 99
+[19-Jul-2015 12:34:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/liam/public_html/suparobo/portada.php on line 87
+[21-Jul-2015 12:05:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/liam/public_html/suparobo/index.php on line 83
+[21-Jul-2015 12:06:43 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 102
+[21-Jul-2015 12:08:26 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 87
+[21-Jul-2015 12:08:53 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home1/liam/public_html/suparobo/index.php on line 102
